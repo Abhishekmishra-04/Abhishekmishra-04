@@ -1,10 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on Frontend & Machine Learning
-👯 I’m looking to collaborate on Projects
-🤝 I’m looking for help with Frontend
-🌱 I’m currently learning DSA
-💬 Ask me about Any thing Web Related
-⚡ Fun fact More Repositories than Stars in the Sky
+# 💫 About Me:<br>
+🔭 I’m currently working on Frontend & Machine Learning.<br>
+👯 I’m looking to collaborate on Projects.<br>
+🤝 I’m looking for help with Frontend.<br>
+🌱 I’m currently learning DSA.<br>
+💬 Ask me about Any thing Web Related.<br>
+⚡ Fun fact More Repositories than Stars in the Sky.<br>
 
 
 ## 🌐 Socials:
